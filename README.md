@@ -3,7 +3,7 @@ I am a Japanese web engineer called Jogen.
 I like TypeScript and React.
 I am particular about code readability!
 
-You can find my Tech Blog [here](https://zenn.dev/bmthd)
+You can find my Tech Blog [here](https://zenn.dev/bmth)
 
 ## Programming Languages
 
@@ -19,7 +19,9 @@ You can find my Tech Blog [here](https://zenn.dev/bmthd)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=bmthd&show_icons=true&locale=en&layout=compact)
 
+
 <!--
+![bmthd's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmthd&show_icons=true&theme=transparent)
 **bmthd/bmthd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
