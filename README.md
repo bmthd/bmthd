@@ -1,5 +1,5 @@
 # About me
-I am a Japanese web engineer called Jogen.
+I am a Japanese web engineer.
 I like TypeScript and React.
 I am particular about code readability!
 
