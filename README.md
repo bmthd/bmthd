@@ -7,7 +7,7 @@ You can find my Tech Blog [here](https://zenn.dev/bmth)
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=js,typescript,java,python,html,css," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=js,typescript,golang,java,python,html,css," /> <br /><br />
 
 ## Frameworks and Library
 
