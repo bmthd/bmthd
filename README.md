@@ -1,5 +1,5 @@
 # About me
-I am a Japanese web engineer.
+I am a Japanese web developer.
 I like TypeScript and React.
 I am particular about code readability!
 
