@@ -7,11 +7,11 @@ You can find my Tech Blog [here](https://zenn.dev/bmth)
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=js,typescript,golang,java,python,html,css," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=js,typescript,golang,java,cs,python,html,css," /> <br /><br />
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=react,next,vue,spring,nodejs,bun,vite,vitest,jest,prisma,tailwind,wordpress,hono" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,next,vue,spring,nodejs,dotnet,bun,vite,vitest,jest,prisma,tailwind,wordpress,hono" /> <br /><br />
 
 ## DB and Dev Tools etc
 
