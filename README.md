@@ -1,21 +1,18 @@
-# About me
-I am a Japanese web developer.
-I like TypeScript and React.
-I am particular about code readability!
+# About Me
+Hi, I'm a web developer based in Japan.
+I love TypeScript and React, and I care deeply about writing readable code.
 
-You can find my Tech Blog [here](https://zenn.dev/bmth)
-
-And [here](https://pr.bmth.dev/) you can see my contributions to open source.
+🔗 You can find all my links — tech blog, open-source contributions, and more — at **[links.bmth.dev](https://links.bmth.dev/)**.
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=js,typescript,golang,java,cs,python,html,css," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=js,typescript,golang,java,cs,python,html,css" /> <br /><br />
 
-## Frameworks and Library
+## Frameworks & Libraries
 
 <img src="https://skillicons.dev/icons?i=react,next,vue,spring,nodejs,dotnet,bun,vite,vitest,jest,prisma,tailwind,wordpress,hono" /> <br /><br />
 
-## DB and Dev Tools etc
+## Databases & Dev Tools
 
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,planetscale,docker,git,github,vscode,cloudflare,vercel,linux" /> <br /><br />
 
