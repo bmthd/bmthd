@@ -4,6 +4,12 @@ I love TypeScript and React, and I care deeply about writing readable code.
 
 🔗 You can find all my links — tech blog, open-source contributions, and more — at **[links.bmth.dev](https://links.bmth.dev/)**.
 
+## AI Tools
+
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" /> <br /><br />
+
 ## Programming Languages
 
 <img src="https://skillicons.dev/icons?i=js,typescript,golang,java,cs,python,html,css" /> <br /><br />
